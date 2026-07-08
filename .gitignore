@@ -1,0 +1,25 @@
+# CMake & Build Artifacts
+build/
+out/
+bin/
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+Makefile
+
+# Compiled Binaries & Object Files
+*.exe
+*.dll
+*.so
+*.dylib
+*.obj
+*.o
+*.lib
+*.a
+*.pdb
+
+# VS Code & OS Settings
+.vscode/
+.DS_Store
+Thumbs.db
+*.user
